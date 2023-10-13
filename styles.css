@@ -1,0 +1,19 @@
+.title{
+    color: black;
+    text-align: center;
+    font-family: Papyrus;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.recipes-list{
+    list-style-position: inside;
+    text-align: center;
+}
+
+li a{
+    color: black;
+    font-family: Papyrus;
+    font-size: 30px;
+    font-weight: 400;
+}
