@@ -1,0 +1,36 @@
+.main-header{
+    color: black;
+    text-align: center;
+    font-family: Papyrus;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.sub-header{
+    color: black;
+    text-align: center;
+    font-family: Papyrus;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+#food-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul.list,
+ol.list,
+p{
+    color: black;
+    font-family: Papyrus;
+    font-weight: 500;
+    text-align: left;
+}
